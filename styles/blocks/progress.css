@@ -6,7 +6,7 @@
     left: 0;
     width: 0;
     height: var(--progress-size);
-    background-color: var(--color-key);
+    background-color: var(--color-progress);
     transition: width 0.2s linear;
     box-shadow:
         calc(var(--slide-width) / 2) 0 0

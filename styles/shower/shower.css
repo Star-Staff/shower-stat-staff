@@ -11,8 +11,9 @@
     --slide-width: 1024px;
     --slide-height: calc(var(--slide-width) / var(--slide-ratio));
 
-    --progress-size: 8px;
+    --progress-size: 6px;
 
+    --color-progress: #ff6600 ;
     --color-key: #4caf50;
     --color-black: #212121;
     --color-dark: #757575;
